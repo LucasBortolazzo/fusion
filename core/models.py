@@ -64,3 +64,22 @@ class Funcionario(Base):
 
 
 
+class Feature(Base):
+    ICONE_CHOICES = (
+        ('lni-cog', 'Engrenagem'),
+        ('lni-stats-up', 'Gráfico'),
+        ('lni-users', 'Usuários'),
+        ('lni-layers', 'Design'),
+        ('lni-mobile', 'Mobile'),
+        ('lni-rocket', 'Foguete'),
+    )
+    feature = models.CharField('Feature', max_length=100)
+    descricao = models.CharField('Descrição', max_length=200)
+    icone = models.CharField('ícone', max_length=12, choices=ICONE_CHOICES)
+
+
+
+
+
+
+
