@@ -71,3 +71,6 @@ __pycache__/
 local_settings.py
 staticfiles
 *.pyc
+.idea
+template/*
+*.*~
