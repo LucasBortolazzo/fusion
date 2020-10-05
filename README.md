@@ -11,7 +11,7 @@ Features
 4. Cadastro de Serviços renderizados em tempo real
 
 Preview
-![print](prints/01.png)
+![print](prints/01.PNG)
  
 Main requirements
 
