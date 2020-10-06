@@ -16,10 +16,10 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
 ![print](prints/Principal.PNG) 
 
 ### Serviços
-![print](prints/02.PNG) 
+![print](prints/Serviços.PNG) 
 
 ### Recursos
-![print](prints/03.PNG) 
+![print](prints/Recursos.PNG) 
 
 ### Time
 ![print](prints/Time.PNG) 
