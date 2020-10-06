@@ -1,4 +1,4 @@
-# Fusion Startup - Study project
+# Jupiter Startup - Projeto para estudo
 
 Projeto de startup de desenvolvimento de softwares.
 Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programação Web com Python e Django Framework: Essencial da Geek University".
@@ -24,10 +24,10 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
  
 ## Main requirements
 
+* Django==3.1.1
 * asgiref==3.2.10
 * dj-database-url==0.5.0
 * dj-static==0.0.6
-* Django==3.1.1
 * django-stdimage==5.1.1
 * gunicorn==20.0.4
 * Pillow==7.2.0
