@@ -12,11 +12,22 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
 
 ## Preview
 
+### Página principal
 ![print](prints/Principal.PNG) 
+
+### Serviços
 ![print](prints/02.PNG) 
+
+### Recursos
 ![print](prints/03.PNG) 
-![print](prints/04.PNG) 
+
+### Time
+![print](prints/Time.PNG) 
+
+### Contato
 ![print](prints/Contato.PNG) 
+
+### Painel de Administração Django
 ![print](prints/06.PNG) 
 
 ## Demo
