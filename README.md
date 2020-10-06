@@ -13,7 +13,7 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
 ## Preview
 
 ### Página principal
-![print](prints/Principal.PNG) 
+![print](prints/PaginaPrincipal.PNG) 
 
 ### Serviços
 ![print](prints/Serviços.PNG) 
