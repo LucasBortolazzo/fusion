@@ -1,6 +1,6 @@
 # Jupiter Startup - Projeto para estudo
 
-Projeto de startup de desenvolvimento de softwares.
+Projeto de startup de desenvolvimento de softwares. Desenvolvido com Python e Django.
 Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programação Web com Python e Django Framework: Essencial da Geek University".
 
 ## Features
