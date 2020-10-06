@@ -17,6 +17,7 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
 ![print](prints/03.PNG) 
 ![print](prints/04.PNG) 
 ![print](prints/Contato.PNG) 
+![print](prints/06.PNG) 
 
 ## Demo
 [Acessar: jupitersoft.com](https://jupitersoft.herokuapp.com/)
