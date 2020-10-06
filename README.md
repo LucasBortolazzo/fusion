@@ -16,10 +16,10 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
 ![print](prints/02.PNG) 
 ![print](prints/03.PNG) 
 ![print](prints/04.PNG) 
-![print](prints/05.PNG) 
+![print](prints/Contato.PNG) 
 
 ## Demo
-[Acessar Site](https://jupitersoft.herokuapp.com/)
+[Acessar: jupitersoft.com](https://jupitersoft.herokuapp.com/)
  
 ## Main requirements
 
