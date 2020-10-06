@@ -28,7 +28,7 @@ Este projeto foi desenvolvido por Lucas Bortolazzo durante o curso "Programaçã
 ![print](prints/Contato.PNG) 
 
 ### Painel de Administração Django
-![print](prints/06.PNG) 
+![print](prints/Adminstracao.PNG) 
 
 ## Demo
 [Acessar: jupitersoft.com](https://jupitersoft.herokuapp.com/)
